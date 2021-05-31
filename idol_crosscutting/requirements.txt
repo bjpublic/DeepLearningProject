@@ -6,7 +6,7 @@ chardet==4.0.0
 cmake==3.18.4.post1
 decorator==4.4.2
 dlib==19.22.0
-facenet-pytorch==2.5.2
+facenet-pytorch==2.5.1
 flatbuffers==1.12
 gast==0.3.3
 google-auth==1.28.1
@@ -18,9 +18,9 @@ idna==2.10
 imageio==2.9.0
 imageio-ffmpeg==0.4.3
 imutils==0.5.4
-Keras==2.4.3
-keras-facenet==0.3.2
-Keras-Preprocessing==1.1.2
+Keras==2.3.1
+keras-facenet==0.3.1
+Keras-Preprocessing==1.1.0
 Markdown==3.3.4
 moviepy==1.0.3
 mtcnn==0.1.0
