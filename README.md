@@ -1,7 +1,7 @@
 # deep-learning-with-projects
 
 
-
+![한 줄씩 따라 해보는 파이토치 딥러닝 프로젝트 모음집_입체표지](https://user-images.githubusercontent.com/21074282/128303088-c00f61db-a0e0-4d1f-9da8-8629efdc18bf.png)
 
 
 <h1>한 줄씩 따라 해보는 파이토치 딥러닝 프로젝트 모음집</h1>
