@@ -1,0 +1,517 @@
+context	label
+Somebody just left - guess who.	1
+They claimed they had settled on something, but it wasn't clear what they had settled on.	1
+If Sam was going, Sally would know where.	1
+They're going to serve the guests something, but it's unclear what.	1
+She's reading. I can't imagine what.	1
+John said Joan saw someone from her graduating class.	1
+John ate dinner but I don't know who.	0
+She mailed John a letter, but I don't know to whom.	0
+I served leek soup to my guests.	1
+I served my guests.	1
+She was bathing, but I couldn't make out who.	0
+She knew French for Tom.	0
+John is tall on several occasions.	0
+The ship sank, but I don't know with what.	0
+They noticed the painting, but I don't know for how long.	0
+John was tall, but I don't know on what occasions.	0
+Joan ate dinner with someone but I don't know who.	1
+Joan ate dinner with someone but I don't know who with.	1
+I know that Meg's attracted to Harry, but they don't know who.	0
+Since Jill said Joe had invited Sue, we didn't have to ask who.	0
+I know that Meg's attracted to Harry, but they don't know who.	1
+She said she had spoken to everybody, but he wasn't sure who.	0
+Each of the performers came in, but were sitting so far back that we couldn't see who.	0
+She didn't talk to one student.	1
+She doesn't meet anyone for dinner, but they can't figure out who.	0
+Everyone relies on someone. It's unclear who.	1
+Each student wrote a paper on a Mayan language, but I don't remember which one.	1
+The newspaper has reported that they are about to appoint someone, but I can't remember who the newspaper has reported that they are about to appoint.	1
+The newspaper has reported that they are about to appoint someone, but I can't remember who they are about to appoint.	1
+Most columnists claim that a senior White House official has been briefing them, and the newspaper today reveals which one.	1
+Most columnists claim that a senior White House official has been briefing them, but none will reveal which one.	1
+Bill wondered how many papers Sandy had read, but he didn't care which ones.	1
+I never know which papers Sandy has read, but I usually know how many.	1
+Sandy had read how many papers?!	1
+Everybody gets on well with a certain relative, but often only his therapist knows which one.	1
+Which book did each author recommend?	1
+His or her least known work.	1
+They were going to meet sometime on Sunday, but the faculty didn't know when.	1
+John likes some students, but I don't know who.	1
+I don't know who John likes.	1
+John likes some students, but I don't know who John likes some students.	0
+Joan said she talked to the students, but Fred couldn't figure out who.	0
+He announced he had eaten the asparagus, but we didn't know what.	0
+She was reading the books under the table, but Fred didn't know what books.	1
+He announced he would marry the woman he loved most, but none of his relatives could figure out who.	1
+She talked to John or Mary but I don't know which.	1
+She talked to John or Mary but I don't know which one.	1
+She talked to Harry, but I don't know who else.	1
+I will see them, but I don't know how many of them.	1
+Everyone who knows either Susan or Laura likes her.	1
+She said she talked to three students but I don't know how many.	0
+She said she talked to those students but I don't know how many.	0
+He shouted again, but I don't know who to.	1
+She was dancing with somebody, but I don't know who with.	1
+Several firefighters were injured, but it's not known.	1
+Meg is attracted to Harry, but they don't know who she is attracted to.	1
+Sandy was trying to work out which students would be able to solve a certain problem, but she wouldn't tell us which one.	1
+Sandy was trying to work out which students would be able to solve a certain problem, but she wouldn't tell us which one.	0
+John and someone were dancing together, but I don't know who.	0
+The TA's have been arguing about whether some student or other should pass, but I can't now remember which one.	1
+It has been determined that somebody will be appointed; it's just not clear yet who.	0
+Sally asked if somebody was going to fail math class, but I can't remember who.	0
+The TA's have been arguing about whether some student or other should pass, but I can't now remember which one.	0
+Sandy is very anxious to see if the students will be able to solve the homework problem in a particular way, but she won't tell us which.	1
+Sandy is very anxious to see if the students will be able to solve the homework problem in a particular way, but she won't tell us in which way.	1
+Clinton is anxious to find out which budget dilemmas Panetta would be willing to tackle in a certain way, but he won't say in which.	1
+Sandy is wondering whether there will be students who have to drop the class for a certain reason, but she won't reveal what.	1
+In which way is Sandy very anxious to see if the students will be able to solve the homework problem?	0
+In which way is Clinton anxious to find out which budget dilemmas Panetta would be willing to solve?	0
+I know how many assignments I've graded, but I don't know how many Bill has.	1
+What did you leave before they did?	0
+What did you leave before they started playing?	0
+Sandy was trying to work out which students would be able to solve a certain problem.	1
+The administration has issued a statement that it is willing to meet with one of the student groups.	1
+Sandy was trying to work out which students would be able to solve a problem.	1
+The administration has issued a statement that it is willing to meet a student group.	1
+The administration has issued a statement that it is willing to meet a student group, but I'm not sure which one.	1
+I think Agnes said that Bill would speak, but I don't remember what about.	1
+Agnes wondered how John could eat but it's not clear what.	0
+Tony sent Mo a picture that he painted, but it's not clear with what.	0
+She's been dancing but we don't know with whom.	1
+Who did they see someone?	0
+It was believed by everybody that Mary was a thief.	1
+That professor is feared by all students.	1
+Mary was respected by John.	1
+Ted was bitten by the spider.	1
+The book was by John written.	0
+The argument was summed by the coach up.	0
+The paper was written up by John.	1
+The paper was written by John up.	0
+John was spoken to by Mary.	1
+John was spoken by Mary to.	0
+The book was seen by Mary.	1
+John was seen the book.	0
+The book was written.	1
+John was spoke by Mary to.	0
+The table was wiped clean by John.	1
+The table was wiped by John clean.	0
+Mary was given by John the book.	0
+John was believed to be telling the truth by Mary.	1
+John was believed by Mary to be telling the truth.	1
+The car was driven by John to Maine.	1
+It was believed by the students that they would have an exam.	1
+The magazines were sent to herself by Mary.	0
+Chocolate eggs were hidden from each other by the children.	0
+The magazines were sent by Mary to herself.	1
+Chocolate eggs were hidden from no child by any adult.	1
+Tabs were kept on each agent by the other.	1
+Chocolate eggs were hidden from every child by his mother.	1
+Books were taken from no student and given to Mary.	1
+Books were taken from no student and given to Mary by any professor.	0
+Books were taken from each student by the other.	1
+Books were taken from each student and given to Mary.	1
+Books were taken from each student and given to Mary by the other.	0
+Jack hates Sue and is loved by Mary.	1
+Vera sent a baby alligator to Max and a leather dinosaur to Phyllis.	1
+Either Sam plays the bassoon or Jekyll the oboe.	1
+Sam doesn't play bassoon, nor Medusa oboe.	1
+Bill ate the peaches, but Harry the grapes.	0
+I no more could have stolen that steak than Jack the diamonds.	1
+Bill ate more peaches than Harry did grapes.	1
+Bill ate the peaches and Harry did the grapes.	0
+Tom will smoke the grass, and Reuben has the hash.	0
+If the ants were called elephants and elephants ants, I'd be able to squash an elephant.	1
+Simon quickly dropped the gold, and Jack the diamonds.	1
+Bob tried to wash himself, and Mary to read the funnies.	1
+Harry told Sue that Albania is a lovely place for a vacation, and Tom told Sally that Albania is a lovely place for a vacation.	1
+Harry told Sue that Albania is a lovely place for a vacation, and Tom.	1
+Max seemed to be trying to begin to love Harriet, and Fred to be trying to begin to love Sue.	1
+Max seemed to be trying to force Ted to leave the room, and Walt, Ira.	1
+Max seemed to be trying to force Ted to leave the room, and Walt to stay a little longer.	0
+Arizona elected Goldwater Senator, and Massachusetts, McCormack.	0
+Millie will send the President an obscene telegram, and Paul, the Secretary a rude letter.	0
+Maytag will give a brand-new dryer to the winner of the Mrs.	0
+Bill didn't eat the peaches, nor Harry.	0
+Bill ate the peaches, and Harry did, too.	1
+Bill must quickly eat the peaches, and Harry must slowly.	0
+Whenever Russia has made a major political blunder, the U.S. has too.	1
+Bill's story about Sue and Max's about Kathy both amazed me.	1
+I bought three quarts of wine and two of Clorox.	1
+Scientists at the South Hanoi Institute of Technology have succeeded in raising one dog with five legs, another with a cow's liver, and a third with no head.	1
+Bill's story about Sue may be amazing, but Max's is virtually incredible.	1
+I like Bill's yellow shirt, but not Max's.	1
+Bill's funny story about Sue and Max's boring one about Kathy both amazed me.	1
+Bill's wine from France and Ted's from California cannot be compared.	1
+As a teacher, you have to deal simultaneously with the administration's pressure on you to succeed, and the children's to be a nice guy.	0
+Neither Von Karajan's recording of Beethoven's 6th on Columbia nor Klemperer's on Angel has the right tempo.	1
+Gould's performance of Bach on the piano doesn't please me anywhere as much as Ross's on the harpsichord.	0
+Tom's dog with one eye attacked Frank's with three legs.	0
+Because Steve's of a spider's eye had been stolen, I borrowed Fred's diagram of a snake's fang.	0
+Neither von Karajan's recording of Beethoven's 6th on Columbia nor Klemperer's has the right tempo.	1
+Tom's dog with one eye attacked Fred's.	1
+I borrowed Fred's diagram of a snake's eye because Steve's had been stolen.	1
+Jerry attempted to blow up the Pentagon.	1
+So fast did he run that nobody could catch him.	1
+Bill bought a red house, and Max bought one too.	1
+Who always drinks milk?	1
+The book which inspired them was very long.	1
+The book what inspired them was very long.	0
+I know the person whose mother died.	1
+The person whose mother's dog we were all fond of.	1
+I wonder whose mother died.	1
+I wonder whose mother's dog died.	1
+I wonder to whom they dedicated the building.	1
+Give me the phone number of the person whose mother's dog died.	1
+This is the senator to whose mother's friend's sister's I sent the letter.	1
+I want goes to the store.	0
+I wonder what to be a clown on the cover of.	0
+Bother you that Kim left!	0
+A student who to talk to us just walked in.	0
+Whose bagels do you like?	1
+I wonder in whom to place my trust.	1
+There were several old rocks songs that she and I were the only two who knew.	1
+It was to to amuse us that Kim was singing that they wanted.	0
+What they feared most was to be no one available to help them.	0
+We tried to amuse them that Kim was singing.	0
+Mary asked me if, in St. Louis, John could rent a house cheap.	1
+Mary arranged for, in St. Louis, John to rent a house cheap.	0
+It would be unwise for there to be no fire exit.	1
+I believe there to be no way out.	1
+I wonder in whom them to place their trust.	0
+I wonder whom us to trust.	0
+I wonder who for us to trust.	0
+I wonder who to place my trust in.	1
+I know the people that voted in the election.	1
+I threw away a book that Sandy thought we had read.	1
+I thought that you were sick.	1
+I dislike the people in who we placed our trust.	0
+I dislike the company in which we placed our trust.	1
+I dislike the people in whose house we stayed.	1
+I dislike the person with whom we were talking.	1
+Jones, that we were talking to last night, always watches football games alone.	0
+A letter was received that Jones would be upset by.	1
+A letter was received Jones would be upset by.	0
+I saw someone yesterday I hadn't seen for years.	1
+Something happened I couldn't really talk about.	1
+The only person that I like whose kids Dana is willing to put up with is Pat.	1
+The book that I like which everyone else in the class hates was written by John.	1
+The only person whose kids Dana is willing to put up with was written by John.	0
+The book that I like - everyone else in the class hates.	0
+The only person whose kids Dana is willing to put up with is Pat.	1
+Which book's author did you meet?	1
+Which boy's mother did you meet who you liked?	0
+Which book's author did you meet who you liked?	0
+Which boy's mother did you meet?	1
+All who lost money in the scam are eligible for the program.	1
+Who for Sandy to talk to is still enrolled in the class?	0
+Who who you like does Sandy also like?	1
+Everything you like is on the table.	1
+The bills passed by the House yesterday that we objected to were vetoed.	1
+The only people being added to our group who were at Harvard were students.	1
+We like ourselves.	1
+Nobody likes us.	1
+Leslie likes ourselves.	0
+Ourselves like ourselves.	0
+She voted for herself.	1
+We gave us presents.	0
+We gave ourselves presents.	1
+We gave presents to ourselves.	1
+We gave us to the cause.	0
+We gave ourselves to the cause.	1
+Leslie told us about us.	0
+Leslie told ourselves about us.	0
+We think that Leslie likes us.	1
+We think that Leslie likes ourselves.	0
+Our friends like us.	1
+Those pictures of us offended us.	1
+We found your letter to ourselves in the trash.	0
+Vote for you!	0
+Vote for yourself!	1
+We appeared to them to vote for themselves.	0
+We admired the pictures of us in the album.	1
+We admired the pictures of ourselves in the album.	1
+Leslie used a pen.	1
+We put the pigs in a pen.	1
+We need to pen the pigs to keep them from getting into the corn.	1
+They should pen the letter quickly.	1
+The car won't run.	1
+This dye will run.	1
+She can run an accelerator.	1
+These stockings will run.	1
+We need another run to win.	1
+Lee saw the student with a telescope.	1
+I forgot how good beer tastes.	1
+Visiting relatives can be boring.	1
+If only Superman would stop flying planes!	1
+That's a new car dealership.	1
+I know you like the back of my hand.	1
+Max is on the phone now.	1
+I saw her duck.	1
+I'm creating a committee. Kim – you're in charge.	1
+Lights go out at ten. There will be no talking afterwards.	1
+They found the book on the atom.	1
+Which experts testified against defendants who exposed them?	1
+List all experts for the defendant who represented himself.	1
+List associates of each defendant who speaks Spanish.	1
+They lost themselves' books.	0
+Some sentences go on and on and on.	1
+Sentences some go on and on and on and on.	0
+That surprised me.	1
+I noticed the.	0
+They were interested in his.	1
+This is my favorite.	1
+A large dog chased a small cat.	1
+Some people yell at noisy dogs in my neighborhood.	1
+Some people yell at the dogs in my neighborhood.	1
+Some people yell at the dogs.	1
+Some people yell at noisy dogs.	1
+Some people yell at dogs.	1
+Some people consider the noisy dogs dangerous.	1
+Some people consider the dogs in my neighborhood dangerous.	1
+Some people consider noisy dogs in my neighborhood dangerous.	1
+Some people consider the dogs dangerous.	1
+Some people consider noisy dogs dangerous.	1
+Some people consider dogs in my neighborhood dangerous.	1
+Some people consider dogs dangerous.	1
+People with children who use drugs should be locked up.	1
+This disease gave Leslie a fever in Rome.	1
+The love of my life and mother of my children would never do such a thing.	1
+Most elections are quickly forgotten, but the election of 2000, everyone will remember for a long time.	1
+It is painting by Klee or drawing by Miro that the museum displays no.	0
+The defendant denied the accusation.	1
+The teacher disappeared the problem.	0
+The teacher handed the student.	0
+The bird sings.	1
+The bird sing.	0
+Birds sings.	0
+The birds give the worm a tug.	1
+The bird give the worm a tug.	0
+The birds gives the worm a tug.	0
+Terry delighted in my pain.	1
+Terry delighted.	0
+Terry delighted my pain.	0
+Kerry remarked it was late.	1
+What additional categories and rules would be required to handle these verbs?	1
+We created a monster.	1
+I was already aware of fact.	0
+The defendant deny the allegation.	0
+The defendants denies the allegation.	0
+The defendant walks.	1
+The defendant walk.	0
+The defendants walks.	0
+How many feature structures categories can label the first daughter?	1
+The child put the toy on the table.	1
+The teacher became angry with the students.	1
+The teacher became.	0
+The jury believed the defendant lied.	1
+The guests dined.	1
+We relied on Leslie.	1
+We relied above Leslie.	0
+We celebrated in the streets.	1
+We celebrated in the streets in the rain on Tuesday in the morning.	1
+The children are happy of ice cream.	0
+The children are fond with the ice cream.	0
+The children are fond that they have ice cream.	0
+A magazine appeared on the newsstands.	1
+A magazine about crime appeared on the newsstands.	1
+Newsweek appeared on the newsstands.	1
+Newsweek about crime appeared on the newsstands.	0
+The report that crime was declining surprised many people.	1
+The book surprised many people.	1
+The book that crime was declining surprised many people.	0
+The storm arrived after the picnic.	1
+The storm arrived while the picnic.	0
+The storm arrived while we ate lunch.	1
+This dogs barked.	0
+These dogs barked.	1
+A chair was broken.	1
+They want them arrested.	1
+They preferred them arrested.	1
+We preferred them on our team.	1
+With my parents as supportive as they are, I'll be in fine shape.	1
+We walks.	0
+Few dog barked.	0
+The dogs barked.	1
+I walk and Dana runs.	1
+They like us.	1
+Us like them.	0
+Kim likes dogs.	1
+Dogs like Kim.	1
+The person responsible confessed.	1
+The person confessed responsible.	0
+The cat slept soundly and furry.	0
+The soundly and furry cat slept.	0
+Chris walks, Pat eats broccoli, and Sandy plays squash.	1
+There was some particular dog who saved every family.	1
+Susan frightens her.	1
+Susan told her a story.	1
+Susan told a story to her.	1
+Susan devoted herself to linguistics.	1
+Nobody told Susan about herself.	1
+That picture of Susan offended her.	1
+He offended Sandy.	1
+I enjoy yourself.	0
+They talk to themselves.	1
+Nobody told Susan.	1
+Protect yourself!	1
+Protect you!	0
+I met the person who left.	1
+Leslie slept.	1
+Chris handed Bo.	0
+Dana walked and Leslie ran.	1
+Dana walking and Leslie ran.	0
+Dana walking and Leslie running.	0
+the putter of books left.	0
+Kris donated a book to the library.	1
+The police sprayed the protesters with water.	1
+The police sprayed water on the protesters.	1
+The students drove cars.	1
+These cars drive easily.	1
+The horse kicked me black and blue.	1
+They yelled.	1
+The horse raced past the barn fell.	1
+The horse that was raced past the barn fell.	1
+The boat seen down the river sank.	1
+The evidence assembled by the prosecution convinced the jury.	1
+Lou forgot the umbrella.	1
+Lou forgot the umbrella in the closet.	1
+Lou hoped the umbrella was broken.	1
+Lou hoped the umbrella in the closet.	0
+Lou put the umbrella was broken.	0
+Lou put the umbrella in the closet.	1
+The artist drew the child with a pencil.	1
+The dog bit the cat.	1
+The cat was bitten the mouse.	0
+The cat was bitten the mouse by the dog.	0
+Chris was handed Sandy a note by Pat.	0
+Chris was handed a note.	1
+Chris was handed Sandy a note.	0
+TV puts dumb ideas in children's heads.	1
+Dumb ideas are put in children's heads by TV.	1
+Dumb ideas are put in children's heads.	1
+Dumb ideas are put notions in children's heads by TV.	0
+The patient died.	1
+The patient was died.	0
+Chris was handed.	0
+TV puts dumb ideas.	0
+He was arrested by the police.	1
+The cat got bitten.	1
+The cat were bitten by the dog.	0
+There is a monster in Loch Ness.	1
+It is obvious that Pat is lying.	1
+Pat is the captain of the team.	1
+Pat is hate Chris.	0
+There is a unicorn in the garden.	1
+There was a felon elected to the city council.	1
+There is a seat available.	1
+A seat available was in the last row.	0
+Many people were fond of Pat.	1
+People are looking through the window.	1
+A felon was elected to the city council.	1
+There loved Sandy.	0
+We talked to them about there.	0
+It mattered that the Giants had lost.	1
+That dogs bark annoys people.	1
+It annoys people that dogs bark.	1
+That Chris knew the answer occurred to Pat.	1
+It never occurred to Pat that Chris knew the answer.	1
+That the Cardinal won the game gave Sandy a thrill.	1
+It gave Sandy a thrill that the Cardinal won the game.	1
+That Sandy had lied suggested.	0
+It loved Sandy.	0
+Cohen proved the independence of the continuum hypothesis.	1
+Cohen proved that the continuum hypothesis was independent.	1
+We forgot our invitations.	1
+Nobody saw Pat.	1
+That Fido barks annoys me.	1
+Fido barks.	1
+Chris dreads the bucket.	1
+The candidates bring advantage to the voters.	1
+Tabs are kept on suspected drug dealers by the FBI.	1
+Advantage is taken of every opportunity for improvement.	1
+The bucket was kicked by Pat.	1
+John is sad.	1
+John loaded the wagon full with hay.	1
+John loaded the wagon with hay green.	0
+I presented John with it dead.	0
+Of whom are you thinking?	1
+John became rich.	1
+I gave John gold apples.	1
+how silly is Bill considered?	1
+how mad was Bill made?	1
+John is sick.	1
+John left singing.	1
+John is near Larry.	1
+John gave Bill the dog dead.	1
+Bill was struck by John as stupid.	0
+John was struck as sick.	0
+John was struck by Bill's idiocy.	1
+John promised Bill to leave.	1
+John tried to leave.	1
+To leave would be a pleasure.	1
+John was struck by Bill as pompous.	0
+John was promised by Bill to leave.	0
+They make good cooks.	1
+there is nothing to do.	1
+John has something for Bill to do.	1
+I am counting on Bill to incriminate himself.	1
+On whom are you counting to incriminate himself?	1
+I am counting on Bill to get there on time.	1
+I would prefer to leave.	1
+I would hate for John to leave.	1
+I would prefer for John to leave.	1
+It was hated for John to leave.	0
+John decided for Bill to get the prize.	0
+John decided Bill to get the prize.	0
+to die is no fun.	1
+John wants to leave.	1
+John counted on Bill to get there on time.	1
+I bought Bill a book to read.	1
+John told Mary that it would be important to leave early.	1
+John told Mary that it was important to Fred to leave early.	1
+John, told Mary that it would be appropriate to leave together.	1
+the election of John president surprised me.	0
+John's arriving dead surprised me.	1
+the attempt by John to leave surprised me.	1
+John left orders to follow Pete.	1
+John left us orders to follow Pete.	1
+John left orders not to be disturbed.	1
+That he is here is clear.	1
+It is a problem that he is here.	1
+It bothers me that he is here.	1
+John regretted it that Bill had a good time.	1
+John believes it that Bill is here.	0
+John believes it sincerely that Bill is here.	0
+John is aware of it that Bill is here.	0
+John felt it that Bill was tardy.	0
+John believed it that Bill was tardy.	0
+It was believed that Bill was tardy.	1
+That John is reluctant seems.	0
+It is the problem that he is here.	0
+That he is here is the problem.	1
+The problem we are discussing is George.	1
+It is to give up to leave.	0
+It would prove our theory to be untenable for carrots to be vegetables.	1
+It was believed to be illegal by them to do that.	0
+John grudgingly accepted judgments of his incompetence as an auto mechanic.	1
+It was to John that I gave the book.	1
+I bought it to read.	1
+I bought it to give to Pete.	1
+I gave it to Pete to take to the fair.	1
+I gave Pete the book to impress.	0
+I wrote to Bill.	1
+I presented it to Bill to read.	1
+I presented Bill with it to read.	0
+I gave a book to Bill to read.	1
+John thinks it would upset himself to die.	1
+John made Bill mad at himself.	1
+John made Bill master of himself.	1
+The correspondence school made Bill a good typist.	1
+The correspondence school sent Bill a good typist.	1
+John considers Bill silly.	1
+John considers Bill to be silly.	1
+John bought a dog for himself to play with.	0
+John arranged for himself to get the prize.	1
+John talked to Bill about himself.	1
