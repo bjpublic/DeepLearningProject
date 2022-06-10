@@ -9,7 +9,7 @@
 따라서 책에 실린 크롤링 데이터를 GitHub의 '05_국민청원_분류' 폴더 'crawling'이라는 파일명으로 업로드하였습니다. 
 참고 부탁드립니다.
 
-<br>
+<br><br>
 
 
 ![한 줄씩 따라 해보는 파이토치 딥러닝 프로젝트 모음집_입체표지](https://user-images.githubusercontent.com/21074282/128303088-c00f61db-a0e0-4d1f-9da8-8629efdc18bf.png)
